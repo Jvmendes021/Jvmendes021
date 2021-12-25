@@ -2,7 +2,7 @@
 
 
 - Estudante de Análise e desevolvimento de sistemas
-- Futuro programador Fullstack!
+- Dev Front-end
 
 <div align="center">
   <a href="https://github.com/Jvmendes021">
