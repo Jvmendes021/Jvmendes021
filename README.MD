@@ -4,16 +4,20 @@
 - Estudante de Análise e desevolvimento de sistemas
 - Dev Front-end
 
-<div align="center">
-                <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Jvmendes021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-                <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmendes021&layout=compact&langs_count=7&theme=dark"/>
-
-                <div style="display: inline_block"><br>
-
-                <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-                <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-                <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-            </div>
+<div>
+  <a href="https://github.com/ronaldprofile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldprofile&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+  
+## I'm studying these technologies   
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
   
   ##
  
