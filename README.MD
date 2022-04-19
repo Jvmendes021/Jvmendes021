@@ -1,4 +1,4 @@
-### Olá! muito prazer eu sou joao vitor 
+### Olá! muito prazer eu sou João Vitor 
 
 
 - Estudante de Análise e Desenvolvimento de sistemas
