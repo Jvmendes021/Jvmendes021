@@ -1,7 +1,7 @@
 ### Hello World! Nice to meet you, I'm João Vitor Mendes
 
 
-- Estudante de Análise e Desenvolvimento de sistemas
+-  Systems Analysis and Development Student
 -  Developer Front-end
 
 <div>
