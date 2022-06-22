@@ -1,8 +1,8 @@
-### Olá! muito prazer eu sou João Vitor 
+### Hello World! Nice to meet you, I'm João Vitor Mendes
 
 
 - Estudante de Análise e Desenvolvimento de sistemas
-- Dev Front-end
+-  Developer Front-end
 
 <div>
   <a href="https://github.com/Jvmendes021">
