@@ -3,7 +3,7 @@
 -  Developer Front-end
 
 <div>
-   <img height="100em" width="100%"  src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
+   <img height="1000em" width="100%"  src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
 </div>
 
 <div>
