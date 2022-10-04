@@ -3,7 +3,8 @@
 
 -  Systems Analysis and Development Student
 -  Developer Front-end
-   https://www.gifcen.com/wp-content/uploads/2022/09/cyberpunk-2077-gif.gif
+   ![cyberpunk-2077-gif](https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif)
+
 
 <div>
   <a href="https://github.com/Jvmendes021">
