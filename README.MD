@@ -3,13 +3,13 @@
 -  Developer Front-end
 
 <div>
-   <img width="100%"  src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
+   <img height="100em" width="100%"  src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
 </div>
 
 <div>
   <a href="https://github.com/Jvmendes021">
   <img height="250em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Jvmendes021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmendes021&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmendes021&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
