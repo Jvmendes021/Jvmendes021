@@ -3,7 +3,7 @@
 
 -  Systems Analysis and Development Student
 -  Developer Front-end
-   ![cyberpunk-2077-gif](https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif)
+   ![cyberpunk-2077-gif](https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif)<br></br>
 
 
 <div>
