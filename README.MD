@@ -3,7 +3,7 @@
 -  Developer Front-end
 
 <div>
-   <img alin-items="center" src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"
+   <img text-align="center" src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"
 </div>
 
 <div>
