@@ -11,8 +11,6 @@
 
 <div>
    <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"<br><br><br>
-   ![Foto1]()
-
 </div>
 
 I like big things. Do you like?
