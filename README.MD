@@ -35,10 +35,8 @@ while($life->isOpenSource()) {
   
 ## I'm studying these technologies
 
+![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400625-ef020e0f-3129-4fee-8f14-c955969992a2.gif)
 
- <img width="100%" src="https://user-images.githubusercontent.com/94051879/194400239-111fbab5-1ef1-468b-a731-fc77e2427bcb.gif"
-
-  
 <div style="display: inline_block"><br>
                 <img align="center" alt="joao-HTML" height="25" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
                 <img align="center" alt="joao-CSS" height="25" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
