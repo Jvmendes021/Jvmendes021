@@ -10,7 +10,7 @@
 ```
 
 <div>
-   <img width="100%" src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
+   <img width="100%"  border-radiu="20px" src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
 </div>
 
 I like big things. Do you like?
