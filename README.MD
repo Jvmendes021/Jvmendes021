@@ -44,11 +44,13 @@ while($life->isOpenSource()) {
   <img align="center" alt="joao-jquery" height="25" width="70" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
                 <img align="center" alt="joao-REACT" height="25" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="joao-Node.Js" height="25" width="70" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="joao-Node.Js" height="25" width="70" src="">
                 
                     
 </div>
   
-  ##
+  ##[Uploading node-js.ico…]()
+
  
 <div> 
   <a href="https://instagram.com/Jvmendes_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
