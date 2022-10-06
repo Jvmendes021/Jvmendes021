@@ -36,7 +36,7 @@ while($life->isOpenSource()) {
 ## I'm studying these technologies
 
 
- <img width="100%" src="(https://user-images.githubusercontent.com/94051879/194400239-111fbab5-1ef1-468b-a731-fc77e2427bcb.gif"
+ <img width="100%" src="https://user-images.githubusercontent.com/94051879/194400239-111fbab5-1ef1-468b-a731-fc77e2427bcb.gif"
 
   
 <div style="display: inline_block"><br>
