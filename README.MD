@@ -15,8 +15,8 @@
 
 <div>
   <a href="https://github.com/Jvmendes021">
-  <img height="190em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Jvmendes021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmendes021&layout=compact&langs_count=7&theme=dark"/>
+  <img height="250em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Jvmendes021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="250em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmendes021&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
