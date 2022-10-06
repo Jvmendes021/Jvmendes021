@@ -33,8 +33,11 @@ while($life->isOpenSource()) {
 </div>
   
   
-## I'm studying these technologies   
-  
+## I'm studying these technologies
+
+
+ <img width="100%" src="(https://user-images.githubusercontent.com/94051879/194400239-111fbab5-1ef1-468b-a731-fc77e2427bcb.gif"
+
   
 <div style="display: inline_block"><br>
                 <img align="center" alt="joao-HTML" height="25" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
