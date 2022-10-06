@@ -3,7 +3,7 @@
 -  Developer Front-end
 
 <div>
-   <img width="100%" border-radius="10px" src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
+   <img width="100%" src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
 </div>
 
 <div>
@@ -20,7 +20,7 @@
                 <img align="center" alt="joao-HTML" height="25" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
                 <img align="center" alt="joao-CSS" height="25" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
                 <img align="center" alt="joao-JS" height="25" width="70" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-                <img align="center" alt="joao-SASS" height="25" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+                <img align-itens="center" alt="joao-SASS" height="25" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="joao-BOOTSTRAP" height="25" width="70" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="joao-jquery" height="25" width="70" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
                 <img align="center" alt="joao-REACT" height="25" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
