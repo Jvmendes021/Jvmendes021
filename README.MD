@@ -1,6 +1,15 @@
-### Hello World! Nice to meet you, I'm João Vitor Mendes
+<div align="center">
+  ### Hello World! Nice to meet you, I'm João Vitor Mendes
 -  Systems Analysis and Development Student
 -  Developer Front-end
+<br>
+
+</h3>
+
+```
+Estudante de Análise e Desenvolvimento de Sistema 
+Atualmente tenho me dedicado a me tornar um Desenvolvedor Front-end.
+```
 
 <div>
    <img width="100%" src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
