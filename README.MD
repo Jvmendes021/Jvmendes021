@@ -13,6 +13,15 @@
    <img width="100%" src= "https://user-images.githubusercontent.com/94051879/193851347-c128f950-8e31-46f3-9b8e-31ddc26ad6fd.gif"<br><br><br>
 </div>
 
+```
+   // Enquanto a vida for Open Source...
+while($life->isOpenSource()) {
+    // diz que ama codar e ama alguém inteligente
+    echo 'I love to code. I love you, ' . $name . '! ';
+}
+
+```
+
 <div>
   <a href="https://github.com/Jvmendes021">
   <img height="250em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Jvmendes021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
