@@ -1,14 +1,12 @@
 <div align="center">
-  ### Hello World! Nice to meet you, I'm João Vitor Mendes
--  Systems Analysis and Development Student
--  Developer Front-end
+  Hello World! Nice to meet you, I'm João Vitor Mendes  
 <br>
 
 </h3>
 
 ```
-Estudante de Análise e Desenvolvimento de Sistema 
-Atualmente tenho me dedicado a me tornar um Desenvolvedor Front-end.
+- Systems Analysis and Development Student
+- Currently I have dedicated myself to becoming a Front-end Developer.
 ```
 
 <div>
