@@ -33,7 +33,7 @@ while($life->isOpenSource()) {
 </div>
   
  <div>
-## I'm studying these technologies
+     I'm studying these technologies
     
 ![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400886-f9f8b0ca-e4fc-44a5-829a-10cb25082eda.gif)
 
