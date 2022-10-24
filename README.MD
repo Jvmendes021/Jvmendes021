@@ -53,11 +53,12 @@ while($life->isOpenSource()) {
 <br>
 
 <div> 
+  
+  ![6](https://user-images.githubusercontent.com/94051879/197600435-ad9c88cc-29e1-4425-9c61-2149e88f939d.gif)
+  
   <a href="https://instagram.com/Jvmendes_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.vitor13mendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-vitor-mendes-3057801aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![6](https://user-images.githubusercontent.com/94051879/197600435-ad9c88cc-29e1-4425-9c61-2149e88f939d.gif)
 
   ![Snake animation](https://github.com/Jvmendes021/jvmendes021/blob/output/github-contribution-grid-snake.svg)
  
