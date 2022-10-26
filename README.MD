@@ -25,7 +25,6 @@ while($life->isOpenSource()) {
     echo 'I love to code. I love you, ' . $name . '! ';
 }
 ```
-
 <div>
   <a href="https://github.com/Jvmendes021">
   <img height="245em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=Jvmendes021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
