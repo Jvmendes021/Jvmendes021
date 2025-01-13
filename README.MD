@@ -11,9 +11,8 @@
 <br>
 
 <div>
-   <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
-</div>
- 
+  <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
+
 I like big things. Do you like?
 
 This is my life motto:
@@ -25,30 +24,32 @@ while($life->isOpenSource()) {
     echo 'I love to code. I love you, ' . $name . '! ';
 }
 ```
+</div>
+
 <div>
   <a href="https://github.com/Jvmendes021">
   <img height="245em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=Jvmendes021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="245em" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmendes021&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- <div>
-   I'm studying these technologies
+<div>
+ I'm studying these technologies
     
-![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400886-f9f8b0ca-e4fc-44a5-829a-10cb25082eda.gif)
+  ![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400886-f9f8b0ca-e4fc-44a5-829a-10cb25082eda.gif)
 
-   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)    
- 
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)   
+
 </div>
-    
+ 
 <br>
 
 <div> 
