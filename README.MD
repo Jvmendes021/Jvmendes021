@@ -4,6 +4,8 @@
    <img width=60% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
+<br>
+
 <div align="center">
    <h1>
       Hello World! Nice to meet you, I'm João Vitor Mendes  
@@ -12,6 +14,8 @@
 <br>
 
   ![6](https://user-images.githubusercontent.com/94051879/197600435-ad9c88cc-29e1-4425-9c61-2149e88f939d.gif)
+
+<br>
   
   <a href="https://instagram.com/Jvmendes_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.vitor13mendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
