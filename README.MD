@@ -1,15 +1,14 @@
 <div align="center">
   Hello World! Nice to meet you, I'm João Vitor Mendes  
 <br><br>
-</div>
 
-<div align="center">
+</h3>
+
 ```
 - Systems Analysis and Development Student
 - Currently I have dedicated myself to becoming a Front-end Developer.
 ```
 <br>
-</div>
 
 <div>
    <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
@@ -19,7 +18,6 @@ I like big things. Do you like?
 
 This is my life motto:
 
-<div align="center">
 ```php
 // Enquanto a vida for Open Source...
 while($life->isOpenSource()) {
@@ -27,8 +25,6 @@ while($life->isOpenSource()) {
     echo 'I love to code. I love you, ' . $name . '! ';
 }
 ```
-</div>
-
 <div>
   <a href="https://github.com/Jvmendes021">
   <img height="245em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=Jvmendes021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
