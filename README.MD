@@ -15,7 +15,7 @@
   
   <a href="https://instagram.com/Jvmendes_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.vitor13mendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-vitor-mendes-3057801aa" target="_blank"><img src="https://img.shields.io/badge/
+  <a href="https://www.linkedin.com/in/joão-vitor-mendes-3057801aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br>
 
@@ -26,20 +26,19 @@
 </div>
 
 <div>
+
    I'm studying these technologies
     
 ![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400886-f9f8b0ca-e4fc-44a5-829a-10cb25082eda.gif)
 
-   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)    
+   <div align="center" style="display: inline_block"><br/>
+   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0000FF?&style=for-the-badge&logo=css3&logoColor=white" />
+   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white" />
+   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-FF4500?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>   
  
 </div>
 
