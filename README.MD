@@ -61,4 +61,6 @@ while($life->isOpenSource()) {
 
   ![Snake animation](https://github.com/Jvmendes021/Jvmendes021/blob/output/github-contribution-grid-snake.svg)
 
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Jvmendes021&repo=Jvmendes021&theme=react)](https://github.com/Jvmendes021/Jvmendes021)
+
 </div>
