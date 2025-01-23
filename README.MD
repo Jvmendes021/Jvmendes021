@@ -10,12 +10,6 @@
    <h1>
       Hello World! Nice to meet you, I'm João Vitor Mendes  
    </h>
-
-<br>
-
-  ![6](https://user-images.githubusercontent.com/94051879/197600435-ad9c88cc-29e1-4425-9c61-2149e88f939d.gif)
-
-<br>
   
   <a href="https://instagram.com/Jvmendes_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.vitor13mendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,8 +26,13 @@
 <div>
 
    I'm studying these technologies
+
     
 ![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400886-f9f8b0ca-e4fc-44a5-829a-10cb25082eda.gif)
+
+<br>
+
+![6](https://user-images.githubusercontent.com/94051879/197600435-ad9c88cc-29e1-4425-9c61-2149e88f939d.gif)
 
    <div align="center" style="display: inline_block"><br/>
    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white" />
